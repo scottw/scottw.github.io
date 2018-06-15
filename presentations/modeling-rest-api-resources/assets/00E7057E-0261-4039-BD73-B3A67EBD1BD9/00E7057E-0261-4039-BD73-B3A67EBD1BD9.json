@@ -2121,21 +2121,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "What REST means",
-          "targetRectangle" : {
-            "y" : 350.36453247070312,
-            "x" : 186.99999809265137,
-            "width" : 402.76800000000003,
-            "height" : 55.656005859375
-          }
-        },
-        {
           "text" : "What we've covered",
           "targetRectangle" : {
             "y" : 52,
             "x" : 435,
             "width" : 1050,
             "height" : 132.751220703125
+          }
+        },
+        {
+          "text" : "What REST means",
+          "targetRectangle" : {
+            "y" : 350.36453247070312,
+            "x" : 186.99999809265137,
+            "width" : 402.76800000000003,
+            "height" : 55.656005859375
           }
         }
       ],
@@ -3584,6 +3584,15 @@
       ],
       "accessibility" : [
         {
+          "text" : "What we've covered",
+          "targetRectangle" : {
+            "y" : 52,
+            "x" : 435,
+            "width" : 1050,
+            "height" : 132.751220703125
+          }
+        },
+        {
           "text" : "What REST means",
           "targetRectangle" : {
             "y" : 350.36453247070312,
@@ -3599,15 +3608,6 @@
             "x" : 186.99999809265137,
             "width" : 309.64800000000002,
             "height" : 114.656005859375
-          }
-        },
-        {
-          "text" : "What we've covered",
-          "targetRectangle" : {
-            "y" : 52,
-            "x" : 435,
-            "width" : 1050,
-            "height" : 132.751220703125
           }
         }
       ],
@@ -5055,6 +5055,15 @@
 
       ],
       "accessibility" : [
+        {
+          "text" : "What we've covered",
+          "targetRectangle" : {
+            "y" : 52,
+            "x" : 435,
+            "width" : 1050,
+            "height" : 132.751220703125
+          }
+        },
         {
           "text" : "What REST means",
           "targetRectangle" : {
@@ -5081,15 +5090,6 @@
             "width" : 439.15200000000004,
             "height" : 114.656005859375
           }
-        },
-        {
-          "text" : "What we've covered",
-          "targetRectangle" : {
-            "y" : 52,
-            "x" : 435,
-            "width" : 1050,
-            "height" : 132.751220703125
-          }
         }
       ],
       "baseLayer" : {
@@ -6536,6 +6536,15 @@
 
       ],
       "accessibility" : [
+        {
+          "text" : "What we've covered",
+          "targetRectangle" : {
+            "y" : 52,
+            "x" : 435,
+            "width" : 1050,
+            "height" : 132.751220703125
+          }
+        },
         {
           "text" : "What REST means",
           "targetRectangle" : {
@@ -6570,15 +6579,6 @@
             "x" : 186.99999809265137,
             "width" : 1146.2880000000002,
             "height" : 114.656005859375
-          }
-        },
-        {
-          "text" : "What we've covered",
-          "targetRectangle" : {
-            "y" : 52,
-            "x" : 435,
-            "width" : 1050,
-            "height" : 132.751220703125
           }
         }
       ],
@@ -7798,6 +7798,15 @@
       ],
       "accessibility" : [
         {
+          "text" : "What we've covered",
+          "targetRectangle" : {
+            "y" : 52,
+            "x" : 435,
+            "width" : 1050,
+            "height" : 132.751220703125
+          }
+        },
+        {
           "text" : "What REST means",
           "targetRectangle" : {
             "y" : 350.36453247070312,
@@ -7840,15 +7849,6 @@
             "x" : 186.99999809265137,
             "width" : 1205.904,
             "height" : 114.656005859375
-          }
-        },
-        {
-          "text" : "What we've covered",
-          "targetRectangle" : {
-            "y" : 52,
-            "x" : 435,
-            "width" : 1050,
-            "height" : 132.751220703125
           }
         }
       ],

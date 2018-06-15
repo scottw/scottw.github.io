@@ -426,6 +426,15 @@
       ],
       "accessibility" : [
         {
+          "text" : "Other resources",
+          "targetRectangle" : {
+            "y" : 52,
+            "x" : 545.93599999999992,
+            "width" : 828.12800000000016,
+            "height" : 132.751220703125
+          }
+        },
+        {
           "text" : "RESTful Web Services, Leonard Richardson and Sam Ruby, O'Reilly, 2007",
           "targetRectangle" : {
             "y" : 255,
@@ -495,15 +504,6 @@
             "x" : 178.49999857584635,
             "width" : 1280.4974399999999,
             "height" : 94.854483878612541
-          }
-        },
-        {
-          "text" : "Other resources",
-          "targetRectangle" : {
-            "y" : 52,
-            "x" : 545.93599999999992,
-            "width" : 828.12800000000016,
-            "height" : 132.751220703125
           }
         }
       ],

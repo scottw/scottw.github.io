@@ -382,6 +382,15 @@
       ],
       "accessibility" : [
         {
+          "text" : "Delete subdomain response",
+          "targetRectangle" : {
+            "y" : 52,
+            "x" : 235.86400000000015,
+            "width" : 1448.2719999999999,
+            "height" : 132.751220703125
+          }
+        },
+        {
           "text" : "200 OK",
           "targetRectangle" : {
             "y" : 367.99999046325684,
@@ -424,15 +433,6 @@
             "x" : 95.557121276855469,
             "width" : 42.1435546875,
             "height" : 82
-          }
-        },
-        {
-          "text" : "Delete subdomain response",
-          "targetRectangle" : {
-            "y" : 52,
-            "x" : 235.86400000000015,
-            "width" : 1448.2719999999999,
-            "height" : 132.751220703125
           }
         }
       ],

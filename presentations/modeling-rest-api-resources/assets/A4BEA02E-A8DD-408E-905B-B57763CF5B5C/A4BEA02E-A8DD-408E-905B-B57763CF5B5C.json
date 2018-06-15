@@ -1,22 +1,8 @@
 {
   "assets" : {
-    "7085A9F130E83AD1D524CBFCDC6EF01A" : {
-      "type" : "texture",
-      "index" : 0,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/A4BEA02E-A8DD-408E-905B-B57763CF5B5C.pdf"
-      },
-      "width" : 1920,
-      "height" : 1080
-    },
     "C25C25FF361FB24FC35F6B120D2F252D" : {
       "type" : "texture",
-      "index" : 5,
+      "index" : 0,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -58,7 +44,7 @@
     },
     "CA4755737A6249F7C0D127DDD3C4D58C" : {
       "type" : "texture",
-      "index" : 7,
+      "index" : 6,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -86,7 +72,7 @@
     },
     "A52E6245D5737BA67A3295B5E44628E3" : {
       "type" : "texture",
-      "index" : 6,
+      "index" : 5,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -733,7 +719,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "7085A9F130E83AD1D524CBFCDC6EF01A"
+                    "texture" : "C25C25FF361FB24FC35F6B120D2F252D"
                   }
                 ]
               }
@@ -2222,6 +2208,15 @@
       ],
       "accessibility" : [
         {
+          "text" : "url: '\/subdomains'",
+          "targetRectangle" : {
+            "y" : 439.55319356918335,
+            "x" : 641.09930419921875,
+            "width" : 650.21484375,
+            "height" : 70
+          }
+        },
+        {
           "text" : "componentDidMount: function() {",
           "targetRectangle" : {
             "y" : 297.82422351837158,
@@ -2299,15 +2294,6 @@
             "y" : 860.17578601837158,
             "x" : 174.51954650878906,
             "width" : 36.123046875,
-            "height" : 70
-          }
-        },
-        {
-          "text" : "url: '\/subdomains'",
-          "targetRectangle" : {
-            "y" : 439.55319356918335,
-            "x" : 641.09930419921875,
-            "width" : 650.21484375,
             "height" : 70
           }
         },

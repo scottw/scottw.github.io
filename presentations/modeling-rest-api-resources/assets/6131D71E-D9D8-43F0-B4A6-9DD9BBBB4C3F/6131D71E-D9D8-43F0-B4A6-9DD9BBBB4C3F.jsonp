@@ -16,20 +16,6 @@ local_slide( {
         "width" : 427,
         "height" : 71
       },
-      "837137A5DE74815F9AC8687112E6263C" : {
-        "type" : "texture",
-        "index" : 6,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/6131D71E-D9D8-43F0-B4A6-9DD9BBBB4C3F.pdf"
-        },
-        "width" : 1920,
-        "height" : 1080
-      },
       "E0E842C7043CB3016FC4D842CF49E55D" : {
         "type" : "texture",
         "index" : 1,
@@ -72,9 +58,9 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "A2D03F33A49E0E3660107F01C055C21F" : {
+      "33F04F152B5113F44C717E1534CC05A7" : {
         "type" : "texture",
-        "index" : 5,
+        "index" : 6,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -83,8 +69,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/6131D71E-D9D8-43F0-B4A6-9DD9BBBB4C3F.pdf"
         },
-        "width" : 1125,
-        "height" : 50
+        "width" : 1920,
+        "height" : 1080
       },
       "6AF8ADA6637BA1DCEFA21A1A95CE9334" : {
         "type" : "texture",
@@ -98,6 +84,20 @@ local_slide( {
           "native" : "assets\/6131D71E-D9D8-43F0-B4A6-9DD9BBBB4C3F.pdf"
         },
         "width" : 746,
+        "height" : 50
+      },
+      "A2D03F33A49E0E3660107F01C055C21F" : {
+        "type" : "texture",
+        "index" : 5,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/6131D71E-D9D8-43F0-B4A6-9DD9BBBB4C3F.pdf"
+        },
+        "width" : 1125,
         "height" : 50
       },
       "1D57ED22D95C5260F86C4F3A14584A38" : {
@@ -2344,21 +2344,21 @@ local_slide( {
             }
           },
           {
-            "text" : "https:\/\/weather.io\/current",
-            "targetRectangle" : {
-              "y" : 524.78125,
-              "x" : 615.7423095703125,
-              "width" : 751.359375,
-              "height" : 56
-            }
-          },
-          {
             "text" : "Current weather",
             "targetRectangle" : {
               "y" : 523.78125,
               "x" : 178.56750297546387,
               "width" : 344.88,
               "height" : 55.656005859375
+            }
+          },
+          {
+            "text" : "https:\/\/weather.io\/current",
+            "targetRectangle" : {
+              "y" : 524.78125,
+              "x" : 615.7423095703125,
+              "width" : 751.359375,
+              "height" : 56
             }
           }
         ],
@@ -3511,7 +3511,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "837137A5DE74815F9AC8687112E6263C"
+                      "texture" : "33F04F152B5113F44C717E1534CC05A7"
                     },
                     {
                       "animations" : [
@@ -3629,24 +3629,6 @@ local_slide( {
             }
           },
           {
-            "text" : "https:\/\/weather.io\/current",
-            "targetRectangle" : {
-              "y" : 524.78125,
-              "x" : 615.7423095703125,
-              "width" : 751.359375,
-              "height" : 56
-            }
-          },
-          {
-            "text" : "https:\/\/weather.io\/2017-11-03T19:12:00Z",
-            "targetRectangle" : {
-              "y" : 580.78125,
-              "x" : 615.7423095703125,
-              "width" : 1127.0390625,
-              "height" : 115
-            }
-          },
-          {
             "text" : "Current weather",
             "targetRectangle" : {
               "y" : 523.78125,
@@ -3662,6 +3644,24 @@ local_slide( {
               "x" : 178.56750297546387,
               "width" : 376.03200000000004,
               "height" : 114.656005859375
+            }
+          },
+          {
+            "text" : "https:\/\/weather.io\/current",
+            "targetRectangle" : {
+              "y" : 524.78125,
+              "x" : 615.7423095703125,
+              "width" : 751.359375,
+              "height" : 56
+            }
+          },
+          {
+            "text" : "https:\/\/weather.io\/2017-11-03T19:12:00Z",
+            "targetRectangle" : {
+              "y" : 580.78125,
+              "x" : 615.7423095703125,
+              "width" : 1127.0390625,
+              "height" : 115
             }
           }
         ],

@@ -1,7 +1,7 @@
 {
   "autoplayTransitionDelay" : 5,
   "author" : "",
-  "timestamp" : "2018-34-15 9:6:3",
+  "timestamp" : "2018-38-15 13:6:3",
   "loopSlideshow" : 0,
   "filename" : "Modeling REST API Resources.key",
   "autoplayBuildDelay" : 2,
@@ -20,7 +20,6 @@
     "5C8AC2EB-D761-4341-8266-0EC2220CBBAA",
     "6131D71E-D9D8-43F0-B4A6-9DD9BBBB4C3F",
     "023362AB-01D1-4BA5-AD0E-D6533C6092EC",
-    "7D90D4CE-9E94-4037-9F15-F11C0D10D67C",
     "106DDD36-B063-4931-A12C-854EB2135A33",
     "65793302-6C89-4739-8F5D-1CFAB82E0159",
     "84E5140D-7514-4B9E-85F2-6EEFC2D154FA",
@@ -72,7 +71,7 @@
   },
   "slideWidth" : 1920,
   "slideHeight" : 1080,
-  "slideCount" : 55,
+  "slideCount" : 54,
   "majorVersion" : 1,
   "minorVersion" : 2,
   "fonts" : [

@@ -382,6 +382,15 @@
       ],
       "accessibility" : [
         {
+          "text" : "Update subdomain request",
+          "targetRectangle" : {
+            "y" : 52,
+            "x" : 255.68799999999999,
+            "width" : 1408.6239999999998,
+            "height" : 132.751220703125
+          }
+        },
+        {
           "text" : "PATCH \/subdomains\/test2.example.com",
           "targetRectangle" : {
             "y" : 334.99999809265137,
@@ -424,15 +433,6 @@
             "x" : 92.546852111816406,
             "width" : 48.1640625,
             "height" : 93
-          }
-        },
-        {
-          "text" : "Update subdomain request",
-          "targetRectangle" : {
-            "y" : 52,
-            "x" : 255.68799999999999,
-            "width" : 1408.6239999999998,
-            "height" : 132.751220703125
           }
         }
       ],

@@ -2265,21 +2265,21 @@ local_slide( {
             }
           },
           {
-            "text" : "POST \/subdomains\/test2.example.com",
-            "targetRectangle" : {
-              "y" : 326.83221554756165,
-              "x" : 222.40287780761719,
-              "width" : 1432.880859375,
-              "height" : 82
-            }
-          },
-          {
             "text" : "Create subdomain request",
             "targetRectangle" : {
               "y" : 52,
               "x" : 274.28000000000009,
               "width" : 1371.4399999999996,
               "height" : 132.751220703125
+            }
+          },
+          {
+            "text" : "POST \/subdomains\/test2.example.com",
+            "targetRectangle" : {
+              "y" : 326.83221554756165,
+              "x" : 222.40287780761719,
+              "width" : 1432.880859375,
+              "height" : 82
             }
           }
         ],
@@ -3740,6 +3740,15 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "REpresentational State Transfer",
+            "targetRectangle" : {
+              "y" : 554.12765502929688,
+              "x" : 201.65000000000009,
+              "width" : 1516.6999999999998,
+              "height" : 120.09930419921875
+            }
+          },
+          {
             "text" : "POST \/subdomains\/test2.example.com",
             "targetRectangle" : {
               "y" : 327.0000057220459,
@@ -3791,15 +3800,6 @@ local_slide( {
               "x" : 221.98777770996094,
               "width" : 42.1435546875,
               "height" : 82
-            }
-          },
-          {
-            "text" : "REpresentational State Transfer",
-            "targetRectangle" : {
-              "y" : 554.12765502929688,
-              "x" : 201.65000000000009,
-              "width" : 1516.6999999999998,
-              "height" : 120.09930419921875
             }
           },
           {

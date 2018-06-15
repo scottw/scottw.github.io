@@ -2090,6 +2090,15 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "\\\"subdomains\\\"",
+            "targetRectangle" : {
+              "y" : 264.04254043102264,
+              "x" : 480.433349609375,
+              "width" : 288.984375,
+              "height" : 46
+            }
+          },
+          {
             "text" : "200 OK",
             "targetRectangle" : {
               "y" : 80.000003814697266,
@@ -2257,15 +2266,6 @@ local_slide( {
               "y" : 954.00000381469727,
               "x" : 384.03125,
               "width" : 24.08203125,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "\\\"subdomains\\\"",
-            "targetRectangle" : {
-              "y" : 264.04254043102264,
-              "x" : 480.433349609375,
-              "width" : 288.984375,
               "height" : 46
             }
           }
@@ -3538,6 +3538,123 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "       {",
+            "targetRectangle" : {
+              "y" : 310.00000286102295,
+              "x" : 383.53125,
+              "width" : 192.65625,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "           \\\"domain\\\": \\\"example.com\\\",",
+            "targetRectangle" : {
+              "y" : 356.00000286102295,
+              "x" : 383.53125,
+              "width" : 842.87109375,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "           \\\"subdomain\\\": \\\"test1\\\",",
+            "targetRectangle" : {
+              "y" : 402.00000286102295,
+              "x" : 383.53125,
+              "width" : 770.625,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "           \\\"target-path\\\": \\\"\/public-html\/test1\\\",",
+            "targetRectangle" : {
+              "y" : 448.00000286102295,
+              "x" : 383.53125,
+              "width" : 1131.85546875,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "           \\\"redirect\\\": null",
+            "targetRectangle" : {
+              "y" : 494.00000286102295,
+              "x" : 383.53125,
+              "width" : 650.21484375,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "       },",
+            "targetRectangle" : {
+              "y" : 540.00000286102295,
+              "x" : 383.53125,
+              "width" : 216.73828125,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "       {",
+            "targetRectangle" : {
+              "y" : 586.00000286102295,
+              "x" : 383.53125,
+              "width" : 192.65625,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "           \\\"domain\\\": \\\"example.com\\\",",
+            "targetRectangle" : {
+              "y" : 632.00000286102295,
+              "x" : 383.53125,
+              "width" : 842.87109375,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "           \\\"subdomain\\\": \\\"test2\\\",",
+            "targetRectangle" : {
+              "y" : 678.00000286102295,
+              "x" : 383.53125,
+              "width" : 770.625,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "           \\\"target-path\\\": \\\"\/public-html\/test2\\\",",
+            "targetRectangle" : {
+              "y" : 724.00000286102295,
+              "x" : 383.53125,
+              "width" : 1131.85546875,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "           \\\"redirect\\\": \\\"https:\/\/goo.gl\\\"",
+            "targetRectangle" : {
+              "y" : 770.00000286102295,
+              "x" : 383.53125,
+              "width" : 939.19921875,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "       },",
+            "targetRectangle" : {
+              "y" : 816.00000286102295,
+              "x" : 383.53125,
+              "width" : 216.73828125,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "       { … }",
+            "targetRectangle" : {
+              "y" : 862.00000286102295,
+              "x" : 383.53125,
+              "width" : 288.984375,
+              "height" : 46
+            }
+          },
+          {
             "text" : "200 OK",
             "targetRectangle" : {
               "y" : 80.000003814697266,
@@ -3705,123 +3822,6 @@ local_slide( {
               "y" : 954.00000381469727,
               "x" : 384.03125,
               "width" : 24.08203125,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "       {",
-            "targetRectangle" : {
-              "y" : 310.00000286102295,
-              "x" : 383.53125,
-              "width" : 192.65625,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "           \\\"domain\\\": \\\"example.com\\\",",
-            "targetRectangle" : {
-              "y" : 356.00000286102295,
-              "x" : 383.53125,
-              "width" : 842.87109375,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "           \\\"subdomain\\\": \\\"test1\\\",",
-            "targetRectangle" : {
-              "y" : 402.00000286102295,
-              "x" : 383.53125,
-              "width" : 770.625,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "           \\\"target-path\\\": \\\"\/public-html\/test1\\\",",
-            "targetRectangle" : {
-              "y" : 448.00000286102295,
-              "x" : 383.53125,
-              "width" : 1131.85546875,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "           \\\"redirect\\\": null",
-            "targetRectangle" : {
-              "y" : 494.00000286102295,
-              "x" : 383.53125,
-              "width" : 650.21484375,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "       },",
-            "targetRectangle" : {
-              "y" : 540.00000286102295,
-              "x" : 383.53125,
-              "width" : 216.73828125,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "       {",
-            "targetRectangle" : {
-              "y" : 586.00000286102295,
-              "x" : 383.53125,
-              "width" : 192.65625,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "           \\\"domain\\\": \\\"example.com\\\",",
-            "targetRectangle" : {
-              "y" : 632.00000286102295,
-              "x" : 383.53125,
-              "width" : 842.87109375,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "           \\\"subdomain\\\": \\\"test2\\\",",
-            "targetRectangle" : {
-              "y" : 678.00000286102295,
-              "x" : 383.53125,
-              "width" : 770.625,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "           \\\"target-path\\\": \\\"\/public-html\/test2\\\",",
-            "targetRectangle" : {
-              "y" : 724.00000286102295,
-              "x" : 383.53125,
-              "width" : 1131.85546875,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "           \\\"redirect\\\": \\\"https:\/\/goo.gl\\\"",
-            "targetRectangle" : {
-              "y" : 770.00000286102295,
-              "x" : 383.53125,
-              "width" : 939.19921875,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "       },",
-            "targetRectangle" : {
-              "y" : 816.00000286102295,
-              "x" : 383.53125,
-              "width" : 216.73828125,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "       { … }",
-            "targetRectangle" : {
-              "y" : 862.00000286102295,
-              "x" : 383.53125,
-              "width" : 288.984375,
               "height" : 46
             }
           }

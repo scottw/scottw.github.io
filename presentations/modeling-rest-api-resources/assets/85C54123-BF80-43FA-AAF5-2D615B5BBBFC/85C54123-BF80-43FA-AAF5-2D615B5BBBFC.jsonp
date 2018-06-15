@@ -384,21 +384,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "GET \/subdomains",
-            "targetRectangle" : {
-              "y" : 493.50000286102295,
-              "x" : 598.76953792572021,
-              "width" : 722.4609375,
-              "height" : 93
-            }
-          },
-          {
             "text" : "List subdomains",
             "targetRectangle" : {
               "y" : 52,
               "x" : 533.67199999999991,
               "width" : 852.65600000000006,
               "height" : 132.751220703125
+            }
+          },
+          {
+            "text" : "GET \/subdomains",
+            "targetRectangle" : {
+              "y" : 493.50000286102295,
+              "x" : 598.76953792572021,
+              "width" : 722.4609375,
+              "height" : 93
             }
           }
         ],

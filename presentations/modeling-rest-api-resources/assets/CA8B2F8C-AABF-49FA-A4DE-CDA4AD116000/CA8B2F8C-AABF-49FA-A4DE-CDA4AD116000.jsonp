@@ -387,6 +387,15 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Client integration",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 518.10399999999993,
+              "width" : 883.79200000000026,
+              "height" : 132.751220703125
+            }
+          },
+          {
             "text" : "render() {",
             "targetRectangle" : {
               "y" : 246.0000114440918,
@@ -519,15 +528,6 @@ local_slide( {
               "x" : 249.08009338378906,
               "width" : 24.08203125,
               "height" : 46
-            }
-          },
-          {
-            "text" : "Client integration",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 518.10399999999993,
-              "width" : 883.79200000000026,
-              "height" : 132.751220703125
             }
           }
         ],
@@ -1746,6 +1746,69 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "         <button onClick=\\\"{this.props.links.edit.href}\\\">",
+            "targetRectangle" : {
+              "y" : 475.53192377090454,
+              "x" : 249.08009338378906,
+              "width" : 1348.59375,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "           {this.props.links.edit.title}",
+            "targetRectangle" : {
+              "y" : 521.53192377090454,
+              "x" : 249.08009338378906,
+              "width" : 963.28125,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "         <\/button>",
+            "targetRectangle" : {
+              "y" : 567.53192377090454,
+              "x" : 249.08009338378906,
+              "width" : 433.4765625,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "         <button onClick=\\\"httpReq({this.props.links.cancel.method},{this.props.links.cancel.href})\\\">",
+            "targetRectangle" : {
+              "y" : 613.53192377090454,
+              "x" : 249.08009338378906,
+              "width" : 1613.49609375,
+              "height" : 92
+            }
+          },
+          {
+            "text" : "           {this.props.links.cancel.title}",
+            "targetRectangle" : {
+              "y" : 705.53192377090454,
+              "x" : 249.08009338378906,
+              "width" : 1011.4453125,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "         <\/button>",
+            "targetRectangle" : {
+              "y" : 751.53192377090454,
+              "x" : 249.08009338378906,
+              "width" : 433.4765625,
+              "height" : 46
+            }
+          },
+          {
+            "text" : "Client integration",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 518.10399999999993,
+              "width" : 883.79200000000026,
+              "height" : 132.751220703125
+            }
+          },
+          {
             "text" : "render() {",
             "targetRectangle" : {
               "y" : 246.0000114440918,
@@ -1878,69 +1941,6 @@ local_slide( {
               "x" : 249.08009338378906,
               "width" : 24.08203125,
               "height" : 46
-            }
-          },
-          {
-            "text" : "         <button onClick=\\\"{this.props.links.edit.href}\\\">",
-            "targetRectangle" : {
-              "y" : 475.53192377090454,
-              "x" : 249.08009338378906,
-              "width" : 1348.59375,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "           {this.props.links.edit.title}",
-            "targetRectangle" : {
-              "y" : 521.53192377090454,
-              "x" : 249.08009338378906,
-              "width" : 963.28125,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "         <\/button>",
-            "targetRectangle" : {
-              "y" : 567.53192377090454,
-              "x" : 249.08009338378906,
-              "width" : 433.4765625,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "         <button onClick=\\\"httpReq({this.props.links.cancel.method},{this.props.links.cancel.href})\\\">",
-            "targetRectangle" : {
-              "y" : 613.53192377090454,
-              "x" : 249.08009338378906,
-              "width" : 1613.49609375,
-              "height" : 92
-            }
-          },
-          {
-            "text" : "           {this.props.links.cancel.title}",
-            "targetRectangle" : {
-              "y" : 705.53192377090454,
-              "x" : 249.08009338378906,
-              "width" : 1011.4453125,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "         <\/button>",
-            "targetRectangle" : {
-              "y" : 751.53192377090454,
-              "x" : 249.08009338378906,
-              "width" : 433.4765625,
-              "height" : 46
-            }
-          },
-          {
-            "text" : "Client integration",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 518.10399999999993,
-              "width" : 883.79200000000026,
-              "height" : 132.751220703125
             }
           }
         ],

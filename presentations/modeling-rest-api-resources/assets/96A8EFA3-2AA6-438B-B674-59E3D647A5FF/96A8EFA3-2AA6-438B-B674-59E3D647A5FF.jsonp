@@ -415,21 +415,21 @@ local_slide( {
             }
           },
           {
-            "text" : "Scott Wiersdorf",
-            "targetRectangle" : {
-              "y" : 423.58860635757446,
-              "x" : 134.82758522033691,
-              "width" : 404.89800000000014,
-              "height" : 67.376007080078125
-            }
-          },
-          {
             "text" : "Slideshow: scottw.github.com\/presentations\/modeling-rest-api-resources",
             "targetRectangle" : {
               "y" : 582.62283325195312,
               "x" : 186.99999809265137,
               "width" : 1577.1359999999995,
               "height" : 55.656005859375
+            }
+          },
+          {
+            "text" : "Scott Wiersdorf",
+            "targetRectangle" : {
+              "y" : 423.58860635757446,
+              "x" : 134.82758522033691,
+              "width" : 404.89800000000014,
+              "height" : 67.376007080078125
             }
           }
         ],

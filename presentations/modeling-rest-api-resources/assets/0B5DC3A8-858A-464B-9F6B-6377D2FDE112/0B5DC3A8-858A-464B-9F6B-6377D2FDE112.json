@@ -417,6 +417,15 @@
       ],
       "accessibility" : [
         {
+          "text" : "Reading",
+          "targetRectangle" : {
+            "y" : 52,
+            "x" : 745.24000000000001,
+            "width" : 429.51999999999998,
+            "height" : 132.751220703125
+          }
+        },
+        {
           "text" : "\\\"Architectural Styles and the Design of Network-based Software Architectures\\\", Roy Fielding, University of California, Irvine, 2000",
           "targetRectangle" : {
             "y" : 252,
@@ -459,15 +468,6 @@
             "x" : 185.49999958038325,
             "width" : 1482.4238399999995,
             "height" : 165.92632737159727
-          }
-        },
-        {
-          "text" : "Reading",
-          "targetRectangle" : {
-            "y" : 52,
-            "x" : 745.24000000000001,
-            "width" : 429.51999999999998,
-            "height" : 132.751220703125
           }
         }
       ],

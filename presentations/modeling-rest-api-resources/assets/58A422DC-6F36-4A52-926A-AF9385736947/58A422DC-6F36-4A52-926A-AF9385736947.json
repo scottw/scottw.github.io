@@ -5431,6 +5431,15 @@
       ],
       "accessibility" : [
         {
+          "text" : "POST \/doAction",
+          "targetRectangle" : {
+            "y" : 914.04785048961639,
+            "x" : 1104.4999971389771,
+            "width" : 337.1484375,
+            "height" : 46
+          }
+        },
+        {
           "text" : "pasted-image.pdf",
           "targetRectangle" : {
             "y" : 835.7978515625,
@@ -5446,15 +5455,6 @@
             "x" : 259.72000000000014,
             "width" : 1400.5599999999995,
             "height" : 132.751220703125
-          }
-        },
-        {
-          "text" : "POST \/doAction",
-          "targetRectangle" : {
-            "y" : 914.04785048961639,
-            "x" : 1104.4999971389771,
-            "width" : 337.1484375,
-            "height" : 46
           }
         }
       ],
@@ -8294,19 +8294,10 @@
         {
           "text" : "pasted-image.pdf",
           "targetRectangle" : {
-            "y" : 835.7978515625,
+            "y" : 628.22601318359375,
             "x" : 560,
             "width" : 800,
             "height" : 202.5
-          }
-        },
-        {
-          "text" : "Richardson Maturity Model",
-          "targetRectangle" : {
-            "y" : 52,
-            "x" : 259.72000000000014,
-            "width" : 1400.5599999999995,
-            "height" : 132.751220703125
           }
         },
         {
@@ -8321,10 +8312,19 @@
         {
           "text" : "pasted-image.pdf",
           "targetRectangle" : {
-            "y" : 628.22601318359375,
+            "y" : 835.7978515625,
             "x" : 560,
             "width" : 800,
             "height" : 202.5
+          }
+        },
+        {
+          "text" : "Richardson Maturity Model",
+          "targetRectangle" : {
+            "y" : 52,
+            "x" : 259.72000000000014,
+            "width" : 1400.5599999999995,
+            "height" : 132.751220703125
           }
         }
       ],
@@ -10483,7 +10483,7 @@
         {
           "text" : "pasted-image.pdf",
           "targetRectangle" : {
-            "y" : 835.7978515625,
+            "y" : 628.22601318359375,
             "x" : 560,
             "width" : 800,
             "height" : 202.5
@@ -10499,15 +10499,6 @@
           }
         },
         {
-          "text" : "Richardson Maturity Model",
-          "targetRectangle" : {
-            "y" : 52,
-            "x" : 259.72000000000014,
-            "width" : 1400.5599999999995,
-            "height" : 132.751220703125
-          }
-        },
-        {
           "text" : "POST \/doAction",
           "targetRectangle" : {
             "y" : 914.04785048961639,
@@ -10519,10 +10510,19 @@
         {
           "text" : "pasted-image.pdf",
           "targetRectangle" : {
-            "y" : 628.22601318359375,
+            "y" : 835.7978515625,
             "x" : 560,
             "width" : 800,
             "height" : 202.5
+          }
+        },
+        {
+          "text" : "Richardson Maturity Model",
+          "targetRectangle" : {
+            "y" : 52,
+            "x" : 259.72000000000014,
+            "width" : 1400.5599999999995,
+            "height" : 132.751220703125
           }
         }
       ],
@@ -13362,7 +13362,7 @@
         {
           "text" : "pasted-image.pdf",
           "targetRectangle" : {
-            "y" : 420.65411376953125,
+            "y" : 628.22601318359375,
             "x" : 560,
             "width" : 800,
             "height" : 202.5
@@ -13371,7 +13371,7 @@
         {
           "text" : "pasted-image.pdf",
           "targetRectangle" : {
-            "y" : 835.7978515625,
+            "y" : 420.65411376953125,
             "x" : 560,
             "width" : 800,
             "height" : 202.5
@@ -13387,15 +13387,6 @@
           }
         },
         {
-          "text" : "Richardson Maturity Model",
-          "targetRectangle" : {
-            "y" : 52,
-            "x" : 259.72000000000014,
-            "width" : 1400.5599999999995,
-            "height" : 132.751220703125
-          }
-        },
-        {
           "text" : "POST \/doAction",
           "targetRectangle" : {
             "y" : 914.04785048961639,
@@ -13407,10 +13398,19 @@
         {
           "text" : "pasted-image.pdf",
           "targetRectangle" : {
-            "y" : 628.22601318359375,
+            "y" : 835.7978515625,
             "x" : 560,
             "width" : 800,
             "height" : 202.5
+          }
+        },
+        {
+          "text" : "Richardson Maturity Model",
+          "targetRectangle" : {
+            "y" : 52,
+            "x" : 259.72000000000014,
+            "width" : 1400.5599999999995,
+            "height" : 132.751220703125
           }
         }
       ],
@@ -15569,7 +15569,7 @@
         {
           "text" : "pasted-image.pdf",
           "targetRectangle" : {
-            "y" : 420.65411376953125,
+            "y" : 628.22601318359375,
             "x" : 560,
             "width" : 800,
             "height" : 202.5
@@ -15578,7 +15578,7 @@
         {
           "text" : "pasted-image.pdf",
           "targetRectangle" : {
-            "y" : 835.7978515625,
+            "y" : 420.65411376953125,
             "x" : 560,
             "width" : 800,
             "height" : 202.5
@@ -15603,15 +15603,6 @@
           }
         },
         {
-          "text" : "Richardson Maturity Model",
-          "targetRectangle" : {
-            "y" : 52,
-            "x" : 259.72000000000014,
-            "width" : 1400.5599999999995,
-            "height" : 132.751220703125
-          }
-        },
-        {
           "text" : "POST \/doAction",
           "targetRectangle" : {
             "y" : 914.04785048961639,
@@ -15623,10 +15614,19 @@
         {
           "text" : "pasted-image.pdf",
           "targetRectangle" : {
-            "y" : 628.22601318359375,
+            "y" : 835.7978515625,
             "x" : 560,
             "width" : 800,
             "height" : 202.5
+          }
+        },
+        {
+          "text" : "Richardson Maturity Model",
+          "targetRectangle" : {
+            "y" : 52,
+            "x" : 259.72000000000014,
+            "width" : 1400.5599999999995,
+            "height" : 132.751220703125
           }
         }
       ],
@@ -18466,7 +18466,7 @@
         {
           "text" : "pasted-image.pdf",
           "targetRectangle" : {
-            "y" : 420.65411376953125,
+            "y" : 628.22601318359375,
             "x" : 560,
             "width" : 800,
             "height" : 202.5
@@ -18475,7 +18475,7 @@
         {
           "text" : "pasted-image.pdf",
           "targetRectangle" : {
-            "y" : 835.7978515625,
+            "y" : 420.65411376953125,
             "x" : 560,
             "width" : 800,
             "height" : 202.5
@@ -18509,15 +18509,6 @@
           }
         },
         {
-          "text" : "Richardson Maturity Model",
-          "targetRectangle" : {
-            "y" : 52,
-            "x" : 259.72000000000014,
-            "width" : 1400.5599999999995,
-            "height" : 132.751220703125
-          }
-        },
-        {
           "text" : "POST \/doAction",
           "targetRectangle" : {
             "y" : 914.04785048961639,
@@ -18529,10 +18520,19 @@
         {
           "text" : "pasted-image.pdf",
           "targetRectangle" : {
-            "y" : 628.22601318359375,
+            "y" : 835.7978515625,
             "x" : 560,
             "width" : 800,
             "height" : 202.5
+          }
+        },
+        {
+          "text" : "Richardson Maturity Model",
+          "targetRectangle" : {
+            "y" : 52,
+            "x" : 259.72000000000014,
+            "width" : 1400.5599999999995,
+            "height" : 132.751220703125
           }
         }
       ],
@@ -20754,7 +20754,7 @@
         {
           "text" : "pasted-image.pdf",
           "targetRectangle" : {
-            "y" : 420.65411376953125,
+            "y" : 628.22601318359375,
             "x" : 560,
             "width" : 800,
             "height" : 202.5
@@ -20772,7 +20772,7 @@
         {
           "text" : "pasted-image.pdf",
           "targetRectangle" : {
-            "y" : 835.7978515625,
+            "y" : 420.65411376953125,
             "x" : 560,
             "width" : 800,
             "height" : 202.5
@@ -20806,15 +20806,6 @@
           }
         },
         {
-          "text" : "Richardson Maturity Model",
-          "targetRectangle" : {
-            "y" : 52,
-            "x" : 259.72000000000014,
-            "width" : 1400.5599999999995,
-            "height" : 132.751220703125
-          }
-        },
-        {
           "text" : "POST \/doAction",
           "targetRectangle" : {
             "y" : 914.04785048961639,
@@ -20826,10 +20817,19 @@
         {
           "text" : "pasted-image.pdf",
           "targetRectangle" : {
-            "y" : 628.22601318359375,
+            "y" : 835.7978515625,
             "x" : 560,
             "width" : 800,
             "height" : 202.5
+          }
+        },
+        {
+          "text" : "Richardson Maturity Model",
+          "targetRectangle" : {
+            "y" : 52,
+            "x" : 259.72000000000014,
+            "width" : 1400.5599999999995,
+            "height" : 132.751220703125
           }
         }
       ],

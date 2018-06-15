@@ -2353,21 +2353,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "What can we do with domains?",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 149.84800000000018,
-              "width" : 1620.3039999999996,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "Register",
             "targetRectangle" : {
               "y" : 408,
               "x" : 668.82616996765137,
               "width" : 177.74400000000003,
               "height" : 55.656005859375
+            }
+          },
+          {
+            "text" : "What can we do with domains?",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 149.84800000000018,
+              "width" : 1620.3039999999996,
+              "height" : 132.751220703125
             }
           }
         ],
@@ -4077,15 +4077,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "What can we do with domains?",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 149.84800000000018,
-              "width" : 1620.3039999999996,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "Register",
             "targetRectangle" : {
               "y" : 408,
@@ -4101,6 +4092,15 @@ local_slide( {
               "x" : 668.82616996765137,
               "width" : 147.50400000000002,
               "height" : 114.656005859375
+            }
+          },
+          {
+            "text" : "What can we do with domains?",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 149.84800000000018,
+              "width" : 1620.3039999999996,
+              "height" : 132.751220703125
             }
           }
         ],
@@ -5810,15 +5810,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "What can we do with domains?",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 149.84800000000018,
-              "width" : 1620.3039999999996,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "Register",
             "targetRectangle" : {
               "y" : 408,
@@ -5843,6 +5834,15 @@ local_slide( {
               "x" : 668.82616996765137,
               "width" : 149.32799999999997,
               "height" : 114.656005859375
+            }
+          },
+          {
+            "text" : "What can we do with domains?",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 149.84800000000018,
+              "width" : 1620.3039999999996,
+              "height" : 132.751220703125
             }
           }
         ],
@@ -10493,21 +10493,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "What can we do with domains?",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 149.84800000000018,
-              "width" : 1620.3039999999996,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "Registration",
             "targetRectangle" : {
               "y" : 408,
               "x" : 668.82616996765137,
               "width" : 257.75999999999999,
               "height" : 55.656005859375
+            }
+          },
+          {
+            "text" : "What can we do with domains?",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 149.84800000000018,
+              "width" : 1620.3039999999996,
+              "height" : 132.751220703125
             }
           }
         ],
@@ -12830,15 +12830,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "What can we do with domains?",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 149.84800000000018,
-              "width" : 1620.3039999999996,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "Registration",
             "targetRectangle" : {
               "y" : 408,
@@ -12854,6 +12845,15 @@ local_slide( {
               "x" : 668.82616996765137,
               "width" : 183.93600000000004,
               "height" : 114.656005859375
+            }
+          },
+          {
+            "text" : "What can we do with domains?",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 149.84800000000018,
+              "width" : 1620.3039999999996,
+              "height" : 132.751220703125
             }
           }
         ],
@@ -15176,15 +15176,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "What can we do with domains?",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 149.84800000000018,
-              "width" : 1620.3039999999996,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "Registration",
             "targetRectangle" : {
               "y" : 408,
@@ -15209,6 +15200,15 @@ local_slide( {
               "x" : 668.82616996765137,
               "width" : 265.77600000000007,
               "height" : 114.656005859375
+            }
+          },
+          {
+            "text" : "What can we do with domains?",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 149.84800000000018,
+              "width" : 1620.3039999999996,
+              "height" : 132.751220703125
             }
           }
         ],
@@ -16762,15 +16762,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "What can we do with domains?",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 149.84800000000018,
-              "width" : 1620.3039999999996,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "Registration",
             "targetRectangle" : {
               "y" : 408,
@@ -16804,6 +16795,15 @@ local_slide( {
               "x" : 668.82616996765137,
               "width" : 505.00800000000004,
               "height" : 114.656005859375
+            }
+          },
+          {
+            "text" : "What can we do with domains?",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 149.84800000000018,
+              "width" : 1620.3039999999996,
+              "height" : 132.751220703125
             }
           }
         ],

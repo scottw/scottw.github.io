@@ -2,9 +2,9 @@ local_slide( {
   "name" : "88D92507-A2CF-49A3-B075-EDF6B0BFF7A2",
   "json" : {
     "assets" : {
-      "89B726C2F561BA8B93F95C66B66CADB7" : {
+      "C25C25FF361FB24FC35F6B120D2F252D" : {
         "type" : "texture",
-        "index" : 3,
+        "index" : 0,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -58,9 +58,9 @@ local_slide( {
         "width" : 1363,
         "height" : 104
       },
-      "C25C25FF361FB24FC35F6B120D2F252D" : {
+      "D74453988BE94323293D137F799DDE9B" : {
         "type" : "texture",
-        "index" : 0,
+        "index" : 3,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -275,7 +275,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "89B726C2F561BA8B93F95C66B66CADB7"
+                      "texture" : "D74453988BE94323293D137F799DDE9B"
                     },
                     {
                       "animations" : [
@@ -384,6 +384,15 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "View subdomain response",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 278.87200000000007,
+              "width" : 1362.2559999999999,
+              "height" : 132.751220703125
+            }
+          },
+          {
             "text" : "200 OK",
             "targetRectangle" : {
               "y" : 299.00000858306885,
@@ -453,15 +462,6 @@ local_slide( {
               "x" : 267.32717895507812,
               "width" : 36.123046875,
               "height" : 70
-            }
-          },
-          {
-            "text" : "View subdomain response",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 278.87200000000007,
-              "width" : 1362.2559999999999,
-              "height" : 132.751220703125
             }
           }
         ],

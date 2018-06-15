@@ -457,15 +457,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Domain name registration",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 293.99200000000008,
-              "width" : 1332.0159999999996,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "202 Accepted",
             "targetRectangle" : {
               "y" : 196.0000114440918,
@@ -652,6 +643,15 @@ local_slide( {
               "x" : 454.1484375,
               "width" : 19.265625,
               "height" : 38
+            }
+          },
+          {
+            "text" : "Domain name registration",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 293.99200000000008,
+              "width" : 1332.0159999999996,
+              "height" : 132.751220703125
             }
           }
         ],
@@ -3334,15 +3334,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Domain name registration",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 293.99200000000008,
-              "width" : 1332.0159999999996,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "202 Accepted",
             "targetRectangle" : {
               "y" : 196.0000114440918,
@@ -3529,6 +3520,15 @@ local_slide( {
               "x" : 454.1484375,
               "width" : 19.265625,
               "height" : 38
+            }
+          },
+          {
+            "text" : "Domain name registration",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 293.99200000000008,
+              "width" : 1332.0159999999996,
+              "height" : 132.751220703125
             }
           },
           {
@@ -6220,12 +6220,12 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Domain name registration",
+            "text" : "Content-Type: application\/hal+json",
             "targetRectangle" : {
-              "y" : 52,
-              "x" : 293.99200000000008,
-              "width" : 1332.0159999999996,
-              "height" : 132.751220703125
+              "y" : 233.76596027612686,
+              "x" : 454.64395141601562,
+              "width" : 655.03125,
+              "height" : 38
             }
           },
           {
@@ -6418,12 +6418,12 @@ local_slide( {
             }
           },
           {
-            "text" : "Content-Type: application\/hal+json",
+            "text" : "Domain name registration",
             "targetRectangle" : {
-              "y" : 233.76596027612686,
-              "x" : 454.64395141601562,
-              "width" : 655.03125,
-              "height" : 38
+              "y" : 52,
+              "x" : 293.99200000000008,
+              "width" : 1332.0159999999996,
+              "height" : 132.751220703125
             }
           }
         ],
@@ -9106,15 +9106,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Domain name registration",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 293.99200000000008,
-              "width" : 1332.0159999999996,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "\\\"status\\\": \\\"in progress\\\"",
             "targetRectangle" : {
               "y" : 385.59573322534561,
@@ -9310,6 +9301,15 @@ local_slide( {
               "x" : 454.1484375,
               "width" : 19.265625,
               "height" : 38
+            }
+          },
+          {
+            "text" : "Domain name registration",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 293.99200000000008,
+              "width" : 1332.0159999999996,
+              "height" : 132.751220703125
             }
           }
         ],
@@ -12028,15 +12028,6 @@ local_slide( {
             }
           },
           {
-            "text" : "Domain name registration",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 293.99200000000008,
-              "width" : 1332.0159999999996,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "202 Accepted",
             "targetRectangle" : {
               "y" : 196.0000114440918,
@@ -12223,6 +12214,15 @@ local_slide( {
               "x" : 454.1484375,
               "width" : 19.265625,
               "height" : 38
+            }
+          },
+          {
+            "text" : "Domain name registration",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 293.99200000000008,
+              "width" : 1332.0159999999996,
+              "height" : 132.751220703125
             }
           }
         ],
@@ -14905,51 +14905,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "    \\\"list\\\": {",
-            "targetRectangle" : {
-              "y" : 614.19146609306335,
-              "x" : 454.08468627929688,
-              "width" : 250.453125,
-              "height" : 38
-            }
-          },
-          {
-            "text" : "      \\\"href\\\": \\\"\/registrations\\\",",
-            "targetRectangle" : {
-              "y" : 652.19146609306335,
-              "x" : 454.08468627929688,
-              "width" : 597.234375,
-              "height" : 38
-            }
-          },
-          {
-            "text" : "      \\\"title\\\": \\\"Lista de registros de domain name\\\"",
-            "targetRectangle" : {
-              "y" : 690.19146609306335,
-              "x" : 454.08468627929688,
-              "width" : 963.28125,
-              "height" : 38
-            }
-          },
-          {
-            "text" : "    }",
-            "targetRectangle" : {
-              "y" : 728.19146609306335,
-              "x" : 454.08468627929688,
-              "width" : 96.328125,
-              "height" : 38
-            }
-          },
-          {
-            "text" : "Domain name registration",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 293.99200000000008,
-              "width" : 1332.0159999999996,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "202 Accepted",
             "targetRectangle" : {
               "y" : 196.0000114440918,
@@ -15135,6 +15090,51 @@ local_slide( {
               "y" : 994.0000114440918,
               "x" : 454.1484375,
               "width" : 19.265625,
+              "height" : 38
+            }
+          },
+          {
+            "text" : "Domain name registration",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 293.99200000000008,
+              "width" : 1332.0159999999996,
+              "height" : 132.751220703125
+            }
+          },
+          {
+            "text" : "    \\\"list\\\": {",
+            "targetRectangle" : {
+              "y" : 614.19146609306335,
+              "x" : 454.08468627929688,
+              "width" : 250.453125,
+              "height" : 38
+            }
+          },
+          {
+            "text" : "      \\\"href\\\": \\\"\/registrations\\\",",
+            "targetRectangle" : {
+              "y" : 652.19146609306335,
+              "x" : 454.08468627929688,
+              "width" : 597.234375,
+              "height" : 38
+            }
+          },
+          {
+            "text" : "      \\\"title\\\": \\\"Lista de registros de domain name\\\"",
+            "targetRectangle" : {
+              "y" : 690.19146609306335,
+              "x" : 454.08468627929688,
+              "width" : 963.28125,
+              "height" : 38
+            }
+          },
+          {
+            "text" : "    }",
+            "targetRectangle" : {
+              "y" : 728.19146609306335,
+              "x" : 454.08468627929688,
+              "width" : 96.328125,
               "height" : 38
             }
           }
@@ -17554,15 +17554,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Domain name registration",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 293.99200000000008,
-              "width" : 1332.0159999999996,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "202 Accepted",
             "targetRectangle" : {
               "y" : 196.0000114440918,
@@ -17749,6 +17740,15 @@ local_slide( {
               "x" : 454.1484375,
               "width" : 19.265625,
               "height" : 38
+            }
+          },
+          {
+            "text" : "Domain name registration",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 293.99200000000008,
+              "width" : 1332.0159999999996,
+              "height" : 132.751220703125
             }
           },
           {

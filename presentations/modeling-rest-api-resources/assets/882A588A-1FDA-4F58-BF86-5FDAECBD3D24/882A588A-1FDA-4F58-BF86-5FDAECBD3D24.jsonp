@@ -537,6 +537,24 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Modeling approaches",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 397.64800000000002,
+              "width" : 1124.7039999999997,
+              "height" : 132.751220703125
+            }
+          },
+          {
+            "text" : "pasted-image.pdf",
+            "targetRectangle" : {
+              "y" : 434.4862060546875,
+              "x" : 1115.6348876953125,
+              "width" : 746,
+              "height" : 349.78424072265625
+            }
+          },
+          {
             "text" : "pasted-image.pdf",
             "targetRectangle" : {
               "y" : 258.748291015625,
@@ -552,24 +570,6 @@ local_slide( {
               "x" : 1115.6348876953125,
               "width" : 746,
               "height" : 191.12396240234375
-            }
-          },
-          {
-            "text" : "pasted-image.pdf",
-            "targetRectangle" : {
-              "y" : 434.4862060546875,
-              "x" : 1115.6348876953125,
-              "width" : 746,
-              "height" : 349.78424072265625
-            }
-          },
-          {
-            "text" : "Modeling approaches",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 397.64800000000002,
-              "width" : 1124.7039999999997,
-              "height" : 132.751220703125
             }
           }
         ],
@@ -2269,18 +2269,27 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "pasted-image.pdf",
+            "text" : "Modeling approaches",
             "targetRectangle" : {
-              "y" : 258.748291015625,
-              "x" : 1115.6348876953125,
-              "width" : 746,
-              "height" : 191.12396240234375
+              "y" : 52,
+              "x" : 397.64800000000002,
+              "width" : 1124.7039999999997,
+              "height" : 132.751220703125
             }
           },
           {
             "text" : "pasted-image.pdf",
             "targetRectangle" : {
-              "y" : 770.12774658203125,
+              "y" : 434.4862060546875,
+              "x" : 1115.6348876953125,
+              "width" : 746,
+              "height" : 349.78424072265625
+            }
+          },
+          {
+            "text" : "pasted-image.pdf",
+            "targetRectangle" : {
+              "y" : 258.748291015625,
               "x" : 1115.6348876953125,
               "width" : 746,
               "height" : 191.12396240234375
@@ -2298,19 +2307,10 @@ local_slide( {
           {
             "text" : "pasted-image.pdf",
             "targetRectangle" : {
-              "y" : 434.4862060546875,
+              "y" : 770.12774658203125,
               "x" : 1115.6348876953125,
               "width" : 746,
-              "height" : 349.78424072265625
-            }
-          },
-          {
-            "text" : "Modeling approaches",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 397.64800000000002,
-              "width" : 1124.7039999999997,
-              "height" : 132.751220703125
+              "height" : 191.12396240234375
             }
           }
         ],
@@ -4010,18 +4010,27 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "pasted-image.pdf",
+            "text" : "Modeling approaches",
             "targetRectangle" : {
-              "y" : 258.748291015625,
-              "x" : 1115.6348876953125,
-              "width" : 746,
-              "height" : 191.12396240234375
+              "y" : 52,
+              "x" : 397.64800000000002,
+              "width" : 1124.7039999999997,
+              "height" : 132.751220703125
             }
           },
           {
             "text" : "pasted-image.pdf",
             "targetRectangle" : {
-              "y" : 770.12774658203125,
+              "y" : 434.4862060546875,
+              "x" : 1115.6348876953125,
+              "width" : 746,
+              "height" : 349.78424072265625
+            }
+          },
+          {
+            "text" : "pasted-image.pdf",
+            "targetRectangle" : {
+              "y" : 258.748291015625,
               "x" : 1115.6348876953125,
               "width" : 746,
               "height" : 191.12396240234375
@@ -4048,19 +4057,10 @@ local_slide( {
           {
             "text" : "pasted-image.pdf",
             "targetRectangle" : {
-              "y" : 434.4862060546875,
+              "y" : 770.12774658203125,
               "x" : 1115.6348876953125,
               "width" : 746,
-              "height" : 349.78424072265625
-            }
-          },
-          {
-            "text" : "Modeling approaches",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 397.64800000000002,
-              "width" : 1124.7039999999997,
-              "height" : 132.751220703125
+              "height" : 191.12396240234375
             }
           }
         ],
@@ -5677,18 +5677,27 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "pasted-image.pdf",
+            "text" : "Modeling approaches",
             "targetRectangle" : {
-              "y" : 258.748291015625,
-              "x" : 1115.6348876953125,
-              "width" : 746,
-              "height" : 191.12396240234375
+              "y" : 52,
+              "x" : 397.64800000000002,
+              "width" : 1124.7039999999997,
+              "height" : 132.751220703125
             }
           },
           {
             "text" : "pasted-image.pdf",
             "targetRectangle" : {
-              "y" : 770.12774658203125,
+              "y" : 434.4862060546875,
+              "x" : 1115.6348876953125,
+              "width" : 746,
+              "height" : 349.78424072265625
+            }
+          },
+          {
+            "text" : "pasted-image.pdf",
+            "targetRectangle" : {
+              "y" : 258.748291015625,
               "x" : 1115.6348876953125,
               "width" : 746,
               "height" : 191.12396240234375
@@ -5724,19 +5733,10 @@ local_slide( {
           {
             "text" : "pasted-image.pdf",
             "targetRectangle" : {
-              "y" : 434.4862060546875,
+              "y" : 770.12774658203125,
               "x" : 1115.6348876953125,
               "width" : 746,
-              "height" : 349.78424072265625
-            }
-          },
-          {
-            "text" : "Modeling approaches",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 397.64800000000002,
-              "width" : 1124.7039999999997,
-              "height" : 132.751220703125
+              "height" : 191.12396240234375
             }
           }
         ],

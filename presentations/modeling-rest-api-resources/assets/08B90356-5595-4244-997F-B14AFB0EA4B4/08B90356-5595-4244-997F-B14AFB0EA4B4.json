@@ -382,21 +382,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Modeling REST API Resources",
-          "targetRectangle" : {
-            "y" : 410,
-            "x" : 163.12000000000035,
-            "width" : 1593.7599999999993,
-            "height" : 132.751220703125
-          }
-        },
-        {
           "text" : "(FIXME: non-stupid REST joke here)",
           "targetRectangle" : {
             "y" : 561,
             "x" : 527.91899999999998,
             "width" : 864.16200000000015,
             "height" : 63.488006591796875
+          }
+        },
+        {
+          "text" : "Modeling REST API Resources",
+          "targetRectangle" : {
+            "y" : 410,
+            "x" : 163.12000000000035,
+            "width" : 1593.7599999999993,
+            "height" : 132.751220703125
           }
         }
       ],

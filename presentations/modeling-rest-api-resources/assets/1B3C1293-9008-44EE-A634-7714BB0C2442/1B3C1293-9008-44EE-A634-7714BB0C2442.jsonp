@@ -691,15 +691,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Client integration",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 518.10399999999993,
-              "width" : 883.79200000000026,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "render() {",
             "targetRectangle" : {
               "y" : 243.76562404632568,
@@ -841,6 +832,15 @@ local_slide( {
               "x" : 86.990264892578125,
               "width" : 24.08203125,
               "height" : 46
+            }
+          },
+          {
+            "text" : "Client integration",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 518.10399999999993,
+              "width" : 883.79200000000026,
+              "height" : 132.751220703125
             }
           }
         ],
@@ -2299,15 +2299,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Client integration",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 518.10399999999993,
-              "width" : 883.79200000000026,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "render() {",
             "targetRectangle" : {
               "y" : 243.76562404632568,
@@ -2467,6 +2458,15 @@ local_slide( {
               "x" : 882.38641357421875,
               "width" : 553.88671875,
               "height" : 46
+            }
+          },
+          {
+            "text" : "Client integration",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 518.10399999999993,
+              "width" : 883.79200000000026,
+              "height" : 132.751220703125
             }
           }
         ],

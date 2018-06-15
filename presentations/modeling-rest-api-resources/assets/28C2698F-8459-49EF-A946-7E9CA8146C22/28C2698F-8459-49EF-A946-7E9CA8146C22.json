@@ -382,21 +382,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "DELETE \/subdomains\/test1.example.com",
-          "targetRectangle" : {
-            "y" : 493.50000286102295,
-            "x" : 93.046848297119141,
-            "width" : 1733.90625,
-            "height" : 93
-          }
-        },
-        {
           "text" : "Delete subdomain request",
           "targetRectangle" : {
             "y" : 52,
             "x" : 279.48800000000006,
             "width" : 1361.0239999999999,
             "height" : 132.751220703125
+          }
+        },
+        {
+          "text" : "DELETE \/subdomains\/test1.example.com",
+          "targetRectangle" : {
+            "y" : 493.50000286102295,
+            "x" : 93.046848297119141,
+            "width" : 1733.90625,
+            "height" : 93
           }
         }
       ],

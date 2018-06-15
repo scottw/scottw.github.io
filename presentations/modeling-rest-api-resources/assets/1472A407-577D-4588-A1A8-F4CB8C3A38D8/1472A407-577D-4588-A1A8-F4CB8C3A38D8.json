@@ -5227,6 +5227,15 @@
       ],
       "accessibility" : [
         {
+          "text" : "\\\"title\\\": \\\"Lista de registros de domain name\\\"",
+          "targetRectangle" : {
+            "y" : 690.51061969995499,
+            "x" : 570.932861328125,
+            "width" : 847.6875,
+            "height" : 38
+          }
+        },
+        {
           "text" : "\\\"title\\\": \\\"Cancelar registro para example2.com\\\"",
           "targetRectangle" : {
             "y" : 880.27661091089249,
@@ -5242,15 +5251,6 @@
             "x" : 293.99200000000008,
             "width" : 1332.0159999999996,
             "height" : 132.751220703125
-          }
-        },
-        {
-          "text" : "\\\"title\\\": \\\"Registro para example2.com\\\"",
-          "targetRectangle" : {
-            "y" : 537.89361530542374,
-            "x" : 569.61785888671875,
-            "width" : 712.828125,
-            "height" : 38
           }
         },
         {
@@ -5443,11 +5443,11 @@
           }
         },
         {
-          "text" : "\\\"title\\\": \\\"Lista de registros de domain name\\\"",
+          "text" : "\\\"title\\\": \\\"Registro para example2.com\\\"",
           "targetRectangle" : {
-            "y" : 690.51061969995499,
-            "x" : 570.932861328125,
-            "width" : 847.6875,
+            "y" : 537.89361530542374,
+            "x" : 569.61785888671875,
+            "width" : 712.828125,
             "height" : 38
           }
         }

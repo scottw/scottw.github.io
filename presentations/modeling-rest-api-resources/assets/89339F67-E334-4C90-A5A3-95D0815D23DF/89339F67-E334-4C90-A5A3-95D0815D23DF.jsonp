@@ -2123,21 +2123,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Example: Domains",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 476.60799999999995,
-              "width" : 966.78400000000011,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "Domain name",
             "targetRectangle" : {
               "y" : 350,
               "x" : 360.56567192077637,
               "width" : 297.93600000000004,
               "height" : 55.656005859375
+            }
+          },
+          {
+            "text" : "Example: Domains",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 476.60799999999995,
+              "width" : 966.78400000000011,
+              "height" : 132.751220703125
             }
           }
         ],
@@ -3586,15 +3586,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Example: Domains",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 476.60799999999995,
-              "width" : 966.78400000000011,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "Domain name",
             "targetRectangle" : {
               "y" : 350,
@@ -3610,6 +3601,15 @@ local_slide( {
               "x" : 360.56567192077637,
               "width" : 512.92800000000011,
               "height" : 114.656005859375
+            }
+          },
+          {
+            "text" : "Example: Domains",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 476.60799999999995,
+              "width" : 966.78400000000011,
+              "height" : 132.751220703125
             }
           }
         ],
@@ -5057,15 +5057,6 @@ local_slide( {
 
         ],
         "accessibility" : [
-          {
-            "text" : "Example: Domains",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 476.60799999999995,
-              "width" : 966.78400000000011,
-              "height" : 132.751220703125
-            }
-          },
           {
             "text" : "Domain name",
             "targetRectangle" : {
@@ -5092,6 +5083,15 @@ local_slide( {
               "width" : 1213.5839999999996,
               "height" : 114.656005859375
             }
+          },
+          {
+            "text" : "Example: Domains",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 476.60799999999995,
+              "width" : 966.78400000000011,
+              "height" : 132.751220703125
+            }
           }
         ],
         "baseLayer" : {
@@ -6538,15 +6538,6 @@ local_slide( {
 
         ],
         "accessibility" : [
-          {
-            "text" : "Example: Domains",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 476.60799999999995,
-              "width" : 966.78400000000011,
-              "height" : 132.751220703125
-            }
-          },
           {
             "text" : "Domain name",
             "targetRectangle" : {
@@ -6581,6 +6572,15 @@ local_slide( {
               "x" : 360.56567192077637,
               "width" : 679.29599999999982,
               "height" : 114.656005859375
+            }
+          },
+          {
+            "text" : "Example: Domains",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 476.60799999999995,
+              "width" : 966.78400000000011,
+              "height" : 132.751220703125
             }
           }
         ],
@@ -7800,15 +7800,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Example: Domains",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 476.60799999999995,
-              "width" : 966.78400000000011,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "Domain name",
             "targetRectangle" : {
               "y" : 350,
@@ -7851,6 +7842,15 @@ local_slide( {
               "x" : 360.56567192077637,
               "width" : 330.67200000000003,
               "height" : 114.656005859375
+            }
+          },
+          {
+            "text" : "Example: Domains",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 476.60799999999995,
+              "width" : 966.78400000000011,
+              "height" : 132.751220703125
             }
           }
         ],

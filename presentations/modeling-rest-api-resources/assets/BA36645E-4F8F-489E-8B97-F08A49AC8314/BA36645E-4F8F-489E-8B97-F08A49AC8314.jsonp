@@ -384,21 +384,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Update subdomain",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 466.30399999999992,
-              "width" : 987.39200000000028,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "pasted-image.tiff",
             "targetRectangle" : {
               "y" : 319.64361572265625,
               "x" : 66.7919921875,
               "width" : 1786.4162261981983,
               "height" : 590.03126055930625
+            }
+          },
+          {
+            "text" : "Update subdomain",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 466.30399999999992,
+              "width" : 987.39200000000028,
+              "height" : 132.751220703125
             }
           }
         ],

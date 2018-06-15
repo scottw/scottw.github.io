@@ -2471,33 +2471,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "  \\\"domain\\\": \\\"example2.com\\\",",
-          "targetRectangle" : {
-            "y" : 549.44006490707397,
-            "x" : 453.06439208984375,
-            "width" : 910.30078125,
-            "height" : 65
-          }
-        },
-        {
-          "text" : "  \\\"years\\\": 4,",
-          "targetRectangle" : {
-            "y" : 614.44006490707397,
-            "x" : 453.06439208984375,
-            "width" : 438.29296875,
-            "height" : 65
-          }
-        },
-        {
-          "text" : "  \\\"privacy\\\": true,",
-          "targetRectangle" : {
-            "y" : 679.44006490707397,
-            "x" : 453.06439208984375,
-            "width" : 606.8671875,
-            "height" : 65
-          }
-        },
-        {
           "text" : "POST \/registration",
           "targetRectangle" : {
             "y" : 224.00000858306885,
@@ -2584,6 +2557,33 @@
             "y" : 939.00000858306885,
             "x" : 453.77737426757812,
             "width" : 33.71484375,
+            "height" : 65
+          }
+        },
+        {
+          "text" : "  \\\"domain\\\": \\\"example2.com\\\",",
+          "targetRectangle" : {
+            "y" : 549.44006490707397,
+            "x" : 453.06439208984375,
+            "width" : 910.30078125,
+            "height" : 65
+          }
+        },
+        {
+          "text" : "  \\\"years\\\": 4,",
+          "targetRectangle" : {
+            "y" : 614.44006490707397,
+            "x" : 453.06439208984375,
+            "width" : 438.29296875,
+            "height" : 65
+          }
+        },
+        {
+          "text" : "  \\\"privacy\\\": true,",
+          "targetRectangle" : {
+            "y" : 679.44006490707397,
+            "x" : 453.06439208984375,
+            "width" : 606.8671875,
             "height" : 65
           }
         },
@@ -4646,6 +4646,15 @@
           }
         },
         {
+          "text" : "Domain name registration",
+          "targetRectangle" : {
+            "y" : 52,
+            "x" : 293.99200000000008,
+            "width" : 1332.0159999999996,
+            "height" : 132.751220703125
+          }
+        },
+        {
           "text" : "  \\\"billing\\\": {...},",
           "targetRectangle" : {
             "y" : 744.54907369613647,
@@ -4670,15 +4679,6 @@
             "x" : 452.95367431640625,
             "width" : 539.4375,
             "height" : 65
-          }
-        },
-        {
-          "text" : "Domain name registration",
-          "targetRectangle" : {
-            "y" : 52,
-            "x" : 293.99200000000008,
-            "width" : 1332.0159999999996,
-            "height" : 132.751220703125
           }
         }
       ],

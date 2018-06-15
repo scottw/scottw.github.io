@@ -56,7 +56,7 @@
       "width" : 1920,
       "height" : 1080
     },
-    "C25C25FF361FB24FC35F6B120D2F252D" : {
+    "F0925ABC4B172DAE2547D72130757328" : {
       "type" : "texture",
       "index" : 0,
       "assetRequest" : {
@@ -631,7 +631,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "C25C25FF361FB24FC35F6B120D2F252D"
+                    "texture" : "F0925ABC4B172DAE2547D72130757328"
                   }
                 ]
               }

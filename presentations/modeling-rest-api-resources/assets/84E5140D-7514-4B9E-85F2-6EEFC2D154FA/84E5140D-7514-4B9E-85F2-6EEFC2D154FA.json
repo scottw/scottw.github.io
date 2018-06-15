@@ -1235,6 +1235,15 @@
         {
           "text" : "pasted-image.pdf",
           "targetRectangle" : {
+            "y" : 767.7493896484375,
+            "x" : 587,
+            "width" : 746,
+            "height" : 191.12396240234375
+          }
+        },
+        {
+          "text" : "pasted-image.pdf",
+          "targetRectangle" : {
             "y" : 256.36996459960938,
             "x" : 587,
             "width" : 746,
@@ -1248,15 +1257,6 @@
             "x" : 472.40800000000002,
             "width" : 975.18400000000008,
             "height" : 132.751220703125
-          }
-        },
-        {
-          "text" : "pasted-image.pdf",
-          "targetRectangle" : {
-            "y" : 767.7493896484375,
-            "x" : 587,
-            "width" : 746,
-            "height" : 191.12396240234375
           }
         },
         {
@@ -5528,6 +5528,15 @@
         {
           "text" : "pasted-image.pdf",
           "targetRectangle" : {
+            "y" : 767.7493896484375,
+            "x" : 587,
+            "width" : 746,
+            "height" : 191.12396240234375
+          }
+        },
+        {
+          "text" : "pasted-image.pdf",
+          "targetRectangle" : {
             "y" : 256.36996459960938,
             "x" : 587,
             "width" : 746,
@@ -5541,15 +5550,6 @@
             "x" : 472.40800000000002,
             "width" : 975.18400000000008,
             "height" : 132.751220703125
-          }
-        },
-        {
-          "text" : "pasted-image.pdf",
-          "targetRectangle" : {
-            "y" : 767.7493896484375,
-            "x" : 587,
-            "width" : 746,
-            "height" : 191.12396240234375
           }
         },
         {
@@ -8947,24 +8947,6 @@
         {
           "text" : "pasted-image.pdf",
           "targetRectangle" : {
-            "y" : 256.36996459960938,
-            "x" : 587,
-            "width" : 746,
-            "height" : 191.12396240234375
-          }
-        },
-        {
-          "text" : "Application Design",
-          "targetRectangle" : {
-            "y" : 52,
-            "x" : 472.40800000000002,
-            "width" : 975.18400000000008,
-            "height" : 132.751220703125
-          }
-        },
-        {
-          "text" : "pasted-image.pdf",
-          "targetRectangle" : {
             "y" : 432.10787963867188,
             "x" : 587,
             "width" : 746,
@@ -8978,6 +8960,24 @@
             "x" : 587,
             "width" : 746,
             "height" : 191.12396240234375
+          }
+        },
+        {
+          "text" : "pasted-image.pdf",
+          "targetRectangle" : {
+            "y" : 256.36996459960938,
+            "x" : 587,
+            "width" : 746,
+            "height" : 191.12396240234375
+          }
+        },
+        {
+          "text" : "Application Design",
+          "targetRectangle" : {
+            "y" : 52,
+            "x" : 472.40800000000002,
+            "width" : 975.18400000000008,
+            "height" : 132.751220703125
           }
         }
       ],
@@ -12027,24 +12027,6 @@
         {
           "text" : "pasted-image.pdf",
           "targetRectangle" : {
-            "y" : 256.36996459960938,
-            "x" : 587,
-            "width" : 746,
-            "height" : 191.12396240234375
-          }
-        },
-        {
-          "text" : "Application Design",
-          "targetRectangle" : {
-            "y" : 52,
-            "x" : 472.40800000000002,
-            "width" : 975.18400000000008,
-            "height" : 132.751220703125
-          }
-        },
-        {
-          "text" : "pasted-image.pdf",
-          "targetRectangle" : {
             "y" : 432.10787963867188,
             "x" : 587,
             "width" : 746,
@@ -12058,6 +12040,24 @@
             "x" : 587,
             "width" : 746,
             "height" : 191.12396240234375
+          }
+        },
+        {
+          "text" : "pasted-image.pdf",
+          "targetRectangle" : {
+            "y" : 256.36996459960938,
+            "x" : 587,
+            "width" : 746,
+            "height" : 191.12396240234375
+          }
+        },
+        {
+          "text" : "Application Design",
+          "targetRectangle" : {
+            "y" : 52,
+            "x" : 472.40800000000002,
+            "width" : 975.18400000000008,
+            "height" : 132.751220703125
           }
         }
       ],

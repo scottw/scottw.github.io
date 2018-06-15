@@ -3145,21 +3145,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "HTTP briefly",
-          "targetRectangle" : {
-            "y" : 52,
-            "x" : 641.47199999999998,
-            "width" : 637.05600000000004,
-            "height" : 132.751220703125
-          }
-        },
-        {
           "text" : "METHOD URI HTTP-VERSION\\u2028[HEADERS]\\u2028\\u2028[BODY]",
           "targetRectangle" : {
             "y" : 339.90533447265625,
             "x" : 134.31776428222656,
             "width" : 553.67999999999995,
             "height" : 190.8800048828125
+          }
+        },
+        {
+          "text" : "HTTP briefly",
+          "targetRectangle" : {
+            "y" : 52,
+            "x" : 641.47199999999998,
+            "width" : 637.05600000000004,
+            "height" : 132.751220703125
           }
         },
         {
@@ -5899,6 +5899,15 @@
       ],
       "accessibility" : [
         {
+          "text" : "METHOD URI HTTP-VERSION\\u2028[HEADERS]\\u2028\\u2028[BODY]",
+          "targetRectangle" : {
+            "y" : 339.90533447265625,
+            "x" : 134.31776428222656,
+            "width" : 553.67999999999995,
+            "height" : 190.8800048828125
+          }
+        },
+        {
           "text" : "HTTP briefly",
           "targetRectangle" : {
             "y" : 52,
@@ -5914,15 +5923,6 @@
             "x" : 741.09429931640625,
             "width" : 1131.85546875,
             "height" : 230
-          }
-        },
-        {
-          "text" : "METHOD URI HTTP-VERSION\\u2028[HEADERS]\\u2028\\u2028[BODY]",
-          "targetRectangle" : {
-            "y" : 339.90533447265625,
-            "x" : 134.31776428222656,
-            "width" : 553.67999999999995,
-            "height" : 190.8800048828125
           }
         },
         {
@@ -8164,12 +8164,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "Response",
+          "text" : "METHOD URI HTTP-VERSION\\u2028[HEADERS]\\u2028\\u2028[BODY]",
           "targetRectangle" : {
-            "y" : 642.93033771514888,
-            "x" : 41.885833859443657,
-            "width" : 59.549652099609382,
-            "height" : 237.95000000000005
+            "y" : 339.90533447265625,
+            "x" : 134.31776428222656,
+            "width" : 553.67999999999995,
+            "height" : 190.8800048828125
           }
         },
         {
@@ -8182,24 +8182,6 @@
           }
         },
         {
-          "text" : "POST \/signup HTTP\/1.1\\u2028Content-Type: application\/json\\u2028Accept-Language: en-US\\u2028\\u2028{\\\"name\\\": \\\"Tony Stark\\\", \\\"domain\\\": \\\"ironman.com\\\"}",
-          "targetRectangle" : {
-            "y" : 339.90533447265625,
-            "x" : 741.09429931640625,
-            "width" : 1131.85546875,
-            "height" : 230
-          }
-        },
-        {
-          "text" : "METHOD URI HTTP-VERSION\\u2028[HEADERS]\\u2028\\u2028[BODY]",
-          "targetRectangle" : {
-            "y" : 339.90533447265625,
-            "x" : 134.31776428222656,
-            "width" : 553.67999999999995,
-            "height" : 190.8800048828125
-          }
-        },
-        {
           "text" : "STATUS-CODE MESSAGE\\u2028[HEADERS]\\u2028\\u2028[BODY]",
           "targetRectangle" : {
             "y" : 669.90533447265625,
@@ -8209,12 +8191,30 @@
           }
         },
         {
+          "text" : "POST \/signup HTTP\/1.1\\u2028Content-Type: application\/json\\u2028Accept-Language: en-US\\u2028\\u2028{\\\"name\\\": \\\"Tony Stark\\\", \\\"domain\\\": \\\"ironman.com\\\"}",
+          "targetRectangle" : {
+            "y" : 339.90533447265625,
+            "x" : 741.09429931640625,
+            "width" : 1131.85546875,
+            "height" : 230
+          }
+        },
+        {
           "text" : "Request",
           "targetRectangle" : {
             "y" : 365.04542551040652,
             "x" : 41.885833859443657,
             "width" : 59.549652099609382,
             "height" : 198.14999999999998
+          }
+        },
+        {
+          "text" : "Response",
+          "targetRectangle" : {
+            "y" : 642.93033771514888,
+            "x" : 41.885833859443657,
+            "width" : 59.549652099609382,
+            "height" : 237.95000000000005
           }
         }
       ],
@@ -10510,12 +10510,12 @@
       ],
       "accessibility" : [
         {
-          "text" : "Response",
+          "text" : "METHOD URI HTTP-VERSION\\u2028[HEADERS]\\u2028\\u2028[BODY]",
           "targetRectangle" : {
-            "y" : 642.93033771514888,
-            "x" : 41.885833859443657,
-            "width" : 59.549652099609382,
-            "height" : 237.95000000000005
+            "y" : 339.90533447265625,
+            "x" : 134.31776428222656,
+            "width" : 553.67999999999995,
+            "height" : 190.8800048828125
           }
         },
         {
@@ -10528,30 +10528,12 @@
           }
         },
         {
-          "text" : "POST \/signup HTTP\/1.1\\u2028Content-Type: application\/json\\u2028Accept-Language: en-US\\u2028\\u2028{\\\"name\\\": \\\"Tony Stark\\\", \\\"domain\\\": \\\"ironman.com\\\"}",
-          "targetRectangle" : {
-            "y" : 339.90533447265625,
-            "x" : 741.09429931640625,
-            "width" : 1131.85546875,
-            "height" : 230
-          }
-        },
-        {
           "text" : "409 Conflict\\u2028Content-Type: application\/json\\u2028\\u2028{\\\"error\\\": \\\"Domain name is already registered.\\\"}",
           "targetRectangle" : {
             "y" : 669.90533447265625,
             "x" : 741.09429931640625,
             "width" : 1131.85546875,
             "height" : 184
-          }
-        },
-        {
-          "text" : "METHOD URI HTTP-VERSION\\u2028[HEADERS]\\u2028\\u2028[BODY]",
-          "targetRectangle" : {
-            "y" : 339.90533447265625,
-            "x" : 134.31776428222656,
-            "width" : 553.67999999999995,
-            "height" : 190.8800048828125
           }
         },
         {
@@ -10564,12 +10546,30 @@
           }
         },
         {
+          "text" : "POST \/signup HTTP\/1.1\\u2028Content-Type: application\/json\\u2028Accept-Language: en-US\\u2028\\u2028{\\\"name\\\": \\\"Tony Stark\\\", \\\"domain\\\": \\\"ironman.com\\\"}",
+          "targetRectangle" : {
+            "y" : 339.90533447265625,
+            "x" : 741.09429931640625,
+            "width" : 1131.85546875,
+            "height" : 230
+          }
+        },
+        {
           "text" : "Request",
           "targetRectangle" : {
             "y" : 365.04542551040652,
             "x" : 41.885833859443657,
             "width" : 59.549652099609382,
             "height" : 198.14999999999998
+          }
+        },
+        {
+          "text" : "Response",
+          "targetRectangle" : {
+            "y" : 642.93033771514888,
+            "x" : 41.885833859443657,
+            "width" : 59.549652099609382,
+            "height" : 237.95000000000005
           }
         }
       ],

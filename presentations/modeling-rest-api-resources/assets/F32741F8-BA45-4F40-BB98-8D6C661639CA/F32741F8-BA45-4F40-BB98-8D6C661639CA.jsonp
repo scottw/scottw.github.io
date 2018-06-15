@@ -1597,21 +1597,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "nest-thermostat.jpg",
-            "targetRectangle" : {
-              "y" : 226.63739013671875,
-              "x" : 1067.7444152832031,
-              "width" : 852.71875,
-              "height" : 853.21875
-            }
-          },
-          {
             "text" : "POST \/temperature-change-request\\u2028{\\u2028    \\\"target\\\": \\\"68°F\\\",\\u2028    \\\"set-when\\\": \\\"ASAP\\\",\\u2028    \\\"notification\\\": {\\u2028        \\\"url\\\": \\\"\/users\/maria\/sms\\\"\\u2028    },\\u2028    \\\"duration\\\": \\\"2h\\\"\\u2028}",
             "targetRectangle" : {
               "y" : 230.24343872070312,
               "x" : 55.124420166015625,
               "width" : 884.35656250000034,
               "height" : 459
+            }
+          },
+          {
+            "text" : "nest-thermostat.jpg",
+            "targetRectangle" : {
+              "y" : 226.63739013671875,
+              "x" : 1067.7444152832031,
+              "width" : 852.71875,
+              "height" : 853.21875
             }
           },
           {
@@ -2917,21 +2917,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "nest-thermostat.jpg",
-            "targetRectangle" : {
-              "y" : 226.63739013671875,
-              "x" : 1067.7444152832031,
-              "width" : 852.71875,
-              "height" : 853.21875
-            }
-          },
-          {
             "text" : "POST \/temperature-change-request\\u2028{\\u2028    \\\"target\\\": \\\"68°F\\\",\\u2028    \\\"set-when\\\": \\\"ASAP\\\",\\u2028    \\\"notification\\\": {\\u2028        \\\"url\\\": \\\"\/users\/maria\/sms\\\"\\u2028    },\\u2028    \\\"duration\\\": \\\"2h\\\"\\u2028}",
             "targetRectangle" : {
               "y" : 230.24343872070312,
               "x" : 55.124420166015625,
               "width" : 884.35656250000034,
               "height" : 459
+            }
+          },
+          {
+            "text" : "nest-thermostat.jpg",
+            "targetRectangle" : {
+              "y" : 226.63739013671875,
+              "x" : 1067.7444152832031,
+              "width" : 852.71875,
+              "height" : 853.21875
             }
           },
           {

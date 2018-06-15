@@ -1890,21 +1890,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Modeling guidelines",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 440.20799999999997,
-              "width" : 1039.5839999999998,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "Coarse-grained resources > Fine-grained resources",
             "targetRectangle" : {
               "y" : 412,
               "x" : 186.99999809265137,
               "width" : 1105.3440000000001,
               "height" : 55.656005859375
+            }
+          },
+          {
+            "text" : "Modeling guidelines",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 440.20799999999997,
+              "width" : 1039.5839999999998,
+              "height" : 132.751220703125
             }
           }
         ],
@@ -3207,15 +3207,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Modeling guidelines",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 440.20799999999997,
-              "width" : 1039.5839999999998,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "Coarse-grained resources > Fine-grained resources",
             "targetRectangle" : {
               "y" : 412,
@@ -3231,6 +3222,15 @@ local_slide( {
               "x" : 186.99999809265137,
               "width" : 294.62400000000002,
               "height" : 114.656005859375
+            }
+          },
+          {
+            "text" : "Modeling guidelines",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 440.20799999999997,
+              "width" : 1039.5839999999998,
+              "height" : 132.751220703125
             }
           }
         ],
@@ -4533,15 +4533,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Modeling guidelines",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 440.20799999999997,
-              "width" : 1039.5839999999998,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "Coarse-grained resources > Fine-grained resources",
             "targetRectangle" : {
               "y" : 412,
@@ -4566,6 +4557,15 @@ local_slide( {
               "x" : 186.99999809265137,
               "width" : 315.98399999999998,
               "height" : 114.656005859375
+            }
+          },
+          {
+            "text" : "Modeling guidelines",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 440.20799999999997,
+              "width" : 1039.5839999999998,
+              "height" : 132.751220703125
             }
           }
         ],
@@ -5712,15 +5712,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Modeling guidelines",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 440.20799999999997,
-              "width" : 1039.5839999999998,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "Coarse-grained resources > Fine-grained resources",
             "targetRectangle" : {
               "y" : 412,
@@ -5754,6 +5745,15 @@ local_slide( {
               "x" : 186.99999809265137,
               "width" : 432.96000000000004,
               "height" : 114.656005859375
+            }
+          },
+          {
+            "text" : "Modeling guidelines",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 440.20799999999997,
+              "width" : 1039.5839999999998,
+              "height" : 132.751220703125
             }
           }
         ],

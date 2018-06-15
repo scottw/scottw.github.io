@@ -384,21 +384,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "pasted-image.pdf",
-            "targetRectangle" : {
-              "y" : 266.96151733398432,
-              "x" : 587.0078125,
-              "width" : 746,
-              "height" : 684.07696533203125
-            }
-          },
-          {
             "text" : "Application Design",
             "targetRectangle" : {
               "y" : 52,
               "x" : 472.40800000000002,
               "width" : 975.18400000000008,
               "height" : 132.751220703125
+            }
+          },
+          {
+            "text" : "pasted-image.pdf",
+            "targetRectangle" : {
+              "y" : 266.96151733398432,
+              "x" : 587.0078125,
+              "width" : 746,
+              "height" : 684.07696533203125
             }
           }
         ],

@@ -387,15 +387,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "A RESTful response",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 445.36000000000001,
-              "width" : 1029.2799999999997,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "{",
             "targetRectangle" : {
               "y" : 200.00000762939453,
@@ -555,6 +546,15 @@ local_slide( {
               "x" : 412.09765625,
               "width" : 24.08203125,
               "height" : 46
+            }
+          },
+          {
+            "text" : "A RESTful response",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 445.36000000000001,
+              "width" : 1029.2799999999997,
+              "height" : 132.751220703125
             }
           }
         ],
@@ -1773,15 +1773,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "A RESTful response",
-            "targetRectangle" : {
-              "y" : 52,
-              "x" : 445.36000000000001,
-              "width" : 1029.2799999999997,
-              "height" : 132.751220703125
-            }
-          },
-          {
             "text" : "{",
             "targetRectangle" : {
               "y" : 200.00000762939453,
@@ -1941,6 +1932,15 @@ local_slide( {
               "x" : 412.09765625,
               "width" : 24.08203125,
               "height" : 46
+            }
+          },
+          {
+            "text" : "A RESTful response",
+            "targetRectangle" : {
+              "y" : 52,
+              "x" : 445.36000000000001,
+              "width" : 1029.2799999999997,
+              "height" : 132.751220703125
             }
           },
           {
